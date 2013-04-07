@@ -1,0 +1,108 @@
+8
+
+dir
+13
+file:///Users/tim/Development/SVN/SimpleTodo/tags/release-1.0/Sparkle.framework/Versions/A/Resources
+file:///Users/tim/Development/SVN/SimpleTodo
+
+
+
+2010-03-12T08:37:01.139204Z
+13
+tim
+
+
+svn:special svn:externals svn:needs-lock
+
+fr_CA.lproj
+file
+
+
+
+
+2010-03-12T08:35:58.000000Z
+311cbb2db8ac6a8db4e01bacdb18e5e7
+2010-03-12T08:37:01.139204Z
+13
+tim
+has-props
+
+
+svn:special
+
+License.txt
+file
+
+
+
+
+2010-03-12T08:35:58.000000Z
+29284fe742e0698808c766d3384bf6c1
+2010-03-12T08:37:01.139204Z
+13
+tim
+
+it.lproj
+dir
+
+relaunch
+file
+
+
+
+
+2010-03-12T08:35:59.000000Z
+698ff24fb0c8d55ad7af3475ceee6fdc
+2010-03-12T08:37:01.139204Z
+13
+tim
+has-props
+
+SUModelTranslation.plist
+file
+
+
+
+
+2010-03-12T08:35:59.000000Z
+f1ea04fe15a18d331dd1cde62aee3953
+2010-03-12T08:37:01.139204Z
+13
+tim
+
+SUStatus.nib
+dir
+
+Info.plist
+file
+
+
+
+
+2010-03-12T08:35:58.000000Z
+13ffb6413a0fbc36342ccb6b6f1bfa40
+2010-03-12T08:37:01.139204Z
+13
+tim
+
+en.lproj
+dir
+
+ru.lproj
+dir
+
+es.lproj
+dir
+
+fr.lproj
+dir
+
+de.lproj
+dir
+
+sv.lproj
+dir
+
+nl.lproj
+dir
+

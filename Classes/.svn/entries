@@ -1,0 +1,88 @@
+8
+
+dir
+13
+file:///Users/tim/Development/SVN/SimpleTodo/tags/release-1.0/Classes
+file:///Users/tim/Development/SVN/SimpleTodo
+
+
+
+2010-03-12T08:37:01.139204Z
+13
+tim
+
+
+svn:special svn:externals svn:needs-lock
+
+SimpleTodoAppDelegate.h
+file
+
+
+
+
+2010-03-12T08:35:58.000000Z
+496fd5aa166ce8050ebfbcddbbd6acc9
+2010-03-12T08:37:01.139204Z
+13
+tim
+
+TodoListData.h
+file
+
+
+
+
+2010-03-12T08:35:58.000000Z
+a9eef2202afbc819d863be57bb4b895a
+2010-03-12T08:37:01.139204Z
+13
+tim
+
+ArrayFunctions.m
+file
+
+
+
+
+2010-03-12T08:35:58.000000Z
+ac731bd7bf9abb06731e389b00a7286d
+2010-03-12T08:37:01.139204Z
+13
+tim
+
+SimpleTodoAppDelegate.m
+file
+
+
+
+
+2010-03-12T08:35:58.000000Z
+17c0bb0dbd688291476deb3be38161c6
+2010-03-12T08:37:01.139204Z
+13
+tim
+
+TodoListData.m
+file
+
+
+
+
+2010-03-12T08:35:58.000000Z
+5f3ee102b06d3481366b7a362194cb56
+2010-03-12T08:37:01.139204Z
+13
+tim
+
+ArrayFunctions.h
+file
+
+
+
+
+2010-03-12T08:35:58.000000Z
+b44f7766d421614baf9539d0e1fbdaa7
+2010-03-12T08:37:01.139204Z
+13
+tim
+

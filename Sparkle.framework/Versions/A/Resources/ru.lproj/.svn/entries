@@ -1,0 +1,38 @@
+8
+
+dir
+13
+file:///Users/tim/Development/SVN/SimpleTodo/tags/release-1.0/Sparkle.framework/Versions/A/Resources/ru.lproj
+file:///Users/tim/Development/SVN/SimpleTodo
+
+
+
+2010-03-12T08:37:01.139204Z
+13
+tim
+
+
+svn:special svn:externals svn:needs-lock
+
+SUAutomaticUpdateAlert.nib
+dir
+
+Sparkle.strings
+file
+
+
+
+
+2010-03-12T08:35:59.000000Z
+79abdbab6dfea63c89ee1e2e79aefc6b
+2010-03-12T08:37:01.139204Z
+13
+tim
+has-props
+
+SUUpdateAlert.nib
+dir
+
+SUUpdatePermissionPrompt.nib
+dir
+

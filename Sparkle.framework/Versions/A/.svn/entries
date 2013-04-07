@@ -1,0 +1,35 @@
+8
+
+dir
+13
+file:///Users/tim/Development/SVN/SimpleTodo/tags/release-1.0/Sparkle.framework/Versions/A
+file:///Users/tim/Development/SVN/SimpleTodo
+
+
+
+2010-03-12T08:37:01.139204Z
+13
+tim
+
+
+svn:special svn:externals svn:needs-lock
+
+Sparkle
+file
+
+
+
+
+2010-03-12T08:35:59.000000Z
+4377a54582b39d07462ffcd46d6b7fa2
+2010-03-12T08:37:01.139204Z
+13
+tim
+has-props
+
+Resources
+dir
+
+Headers
+dir
+
